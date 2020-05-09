@@ -1,0 +1,4 @@
+contents.txt
+notes.md
+test.txt
+var-collector.sh

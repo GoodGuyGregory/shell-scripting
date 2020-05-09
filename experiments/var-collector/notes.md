@@ -1,0 +1,1 @@
+[command line piping](https://stackoverflow.com/questions/13003300/use-return-value-of-a-shell-command-as-a-value-in-shell-script)
